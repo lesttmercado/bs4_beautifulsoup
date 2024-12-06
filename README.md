@@ -1,9 +1,8 @@
-# bs4_beautifulsoup
+# Web Scraping using Python, BS4, and OpenAI
 Saving some codes for later
 
-/*
-This project uses Anaconda3 and Python 3
-*/
+### This project uses Anaconda3, Python 3, and OpenAI gpt-4o-mini
+####
 
 Open the Conda Powershell
 
