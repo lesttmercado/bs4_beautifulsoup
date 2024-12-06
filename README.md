@@ -1,5 +1,4 @@
 # Web Scraping using Python, BS4, and OpenAI
-Saving some codes for later
 
 ### This project uses Anaconda3, Python 3, and OpenAI gpt-4o-mini
 
